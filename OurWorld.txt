@@ -7,6 +7,7 @@ Alex Byrne [AB]
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 The world's 4th Longest River System is in the USA.
+<<<<<<< HEAD
 ---- Brazil
 Brazil once had a ban on the game Counter Strike but now has one of the largest followings in the world!
 
@@ -27,9 +28,33 @@ Nigeria are the second largest consumer of Guinness in the entire world
 The Chinese invented ice cream over 4, 000 years ago by mixing milk with a rice mixture. 
 ------ The Philippines
 One of The Philippines most prominent politicians, Manny Pacquiao is also one of the greatest boxers of all time!
+=======
+---- Argentina [AB]
+Argentina has communities that mainly speak german
+++++++++++++++++++++++   Europe   ++++++++++++++++++++
+---- France [pl]
+The French consume around 25,000 tons of snails each year.
+---- Germany [AB]
+germany invented the gummybear!
++++++++++++++++++++++     Africa  ++++++++++++++++++++
+----- Egypt [pl]
+Ancient Egyptian bakers sometimes kneaded bread dough with their feet.
+----- Uganda [AB]
+uganda has the highest population dencity in africa
+++++++++++++++++++++++    Asia    ++++++++++++++++++++
+------ China [pl]
+The Chinese invented ice cream over 4, 000 years ago by mixing milk with a rice mixture. 
+------ Japan [AB]
+japan has enough vending machines for one machine per 23 people!
+>>>>>>> ea8680bca76f1ab805b61dd4363eed2191588b1f
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 Greenland is home to the largest National Park in the world
+<<<<<<< HEAD
 ----- Vatican
 Vatican City is the smallest country in the world and has a population of around 800 people!
+=======
+----- Australia [AB]
+australia lost a war to birds!
+>>>>>>> ea8680bca76f1ab805b61dd4363eed2191588b1f
